@@ -1,5 +1,5 @@
 #weight in kg, height in meters as a float
-weight = int(input())
+weight = float(input())
 height = float(input())
 bmi = ((weight) / (height**2))
 
