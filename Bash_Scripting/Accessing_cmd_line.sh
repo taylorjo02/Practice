@@ -3,7 +3,7 @@
 # Create a file for output:
 touch ~/zcat.txt
 
-# Create a variable for file
+# Create a variable for file for fun and learning purposes!
 output=~/zcat.txt
 
 # Display the date in the format desired:
